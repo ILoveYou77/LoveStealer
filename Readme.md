@@ -27,6 +27,6 @@
 
 ───────────────────────────────────────────────────────────────────
 
-Picture 
+**Picture**
 
 ![LoveStealer](https://github.com/ILoveYou77/LoveStealer/assets/143199572/d9c03e2d-4e0f-4ef7-8278-8ac1eca6c342)
